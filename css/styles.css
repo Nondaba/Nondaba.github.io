@@ -191,11 +191,12 @@
     height: 80px;
 }
 .box p{
-    color:black;
+    /* color:black; */
     padding-bottom: 10px;
     font-size: 20px;
     text-align: center;
 }
+
 /* #contact{
     display:flex;
     flex-direction:column;
